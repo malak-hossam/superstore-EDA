@@ -36,7 +36,7 @@ The Superstore dataset includes information about sales, profits, discounts, and
 ## Project Structure
 The project consists of the following files:
 1. **superstore.ipynb**: Jupyter Notebook containing the EDA process, including data cleaning, visualization, and analysis.
-2. **superstore_data.csv**: The Superstore dataset used for the analysis.
+2. **Sample - Superstore.csv**: The Superstore dataset used for the analysis.
 
 ## Analysis Overview
 ### Data Cleaning
